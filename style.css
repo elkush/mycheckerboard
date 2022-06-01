@@ -1,0 +1,14 @@
+.container {
+    background-color: bisque;
+    padding: 20px 150px;
+}
+.col {
+    background-color: white;
+}
+.row {
+    height: 100px;
+    width: 100%;
+}
+.black {
+    background-color: black;
+}
